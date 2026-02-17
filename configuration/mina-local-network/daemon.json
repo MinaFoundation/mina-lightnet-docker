@@ -70,31 +70,31 @@
       {
         "pk": "B62qq1miZzh8QMumJ2dhJSvPxdeShGQ2G2cH4YXwxNLpPSvKdRVTb3q",
         "sk": "EKEnVLUhYHDJvgmgQu5SzaV8MWKNfhAXYSkLBRk5KEfudWZRbs4P",
-        "balance": "11550000.000000000",
+        "balance": "10000000.000000000",
         "delegate": null
       },
       {
         "pk": "B62qq6f3enRpmGsWBaJMstwQjQiRdAnyAZ6CbKrcJFgFidRnWZyJkje",
         "sk": "EKEXS3qUZRhxDzExtuAaQVHtxLzt8A3fqS7o7iL9NpvdATsshvB6",
-        "balance": "11550000.000000000",
+        "balance": "10000000.000000000",
         "delegate": null
       },
       {
         "pk": "B62qkBw74e5D3yZLAFTCK3yktG4TZtq4wSfjPrxKr9Psxu29oEZWpvw",
         "sk": "EKF3qRhoze6r6bgF5uRmhMkEahfZJHHQ3hzxqCbPvaNzdhxMVCQh",
-        "balance": "11550000.000000000",
+        "balance": "10000000.000000000",
         "delegate": null
       },
       {
         "pk": "B62qrDMuC4Vu3x6Kcr6YpBYsFsrshpyyH6MWX4cs5UNN2b9syT3rHNX",
         "sk": "EKFd1GxnQ53H3shreTB2VzQJxECz9DE9NjorrkfKyEuKCsHDHVSE",
-        "balance": "11550000.000000000",
+        "balance": "10000000.000000000",
         "delegate": null
       },
       {
         "pk": "B62qo2C5mvFGtmTdHVAynh2ZgD3kG6QbN6pMqnoCYsaFyCsxHuskFVe",
         "sk": "EKFTtvEvxDbMLGfmktofYT1Art7imjTQjUctvpuzbD5bzm9PxHrG",
-        "balance": "11550000.000000000",
+        "balance": "10000000.000000000",
         "delegate": null
       },
       {
@@ -130,13 +130,13 @@
       {
         "pk": "B62qq7vvHBQvVfkkcWqn7pGWFUvyVdkxA8UfWPhiNKiDBaExc4AWr4z",
         "sk": "EKDnuv8xDCnjUh6YuMvvH8P3h4TjK7QSqgFMRqZASL37eEbULNgB",
-        "balance": "65550.000000000",
+        "balance": "60000.000000000",
         "delegate": null
       },
       {
         "pk": "B62qnAixvaVe6q1Jyf7MyHDrTZ6ZLtHwG3QosoHYU1sHXXBvQZVPYKm",
         "sk": "EKE6TgsugK846uK881VDiMmbganriXMQXFYhvaa9y1X8TxmAK2gP",
-        "balance": "65550.000000000",
+        "balance": "60000.000000000",
         "delegate": null
       },
       {
